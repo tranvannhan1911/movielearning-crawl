@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Triple Threat",
+        "apiId": 449985,
+        "type": "movie",
+        "poster_path": "/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg",
+        "backdrop_path": "/2f8fkWSWOVcTlWforoVpsuaCiwI.jpg",
+        "release_date": "2019-03-19",
+        "trailer_key": "DovnHrIwfTY",
+        "overview": "A crime syndicate places a hit on a billionaire's daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target.",
+        "localizes": [
+            {
+                "lang": "vi",
+                "title": "BỘ BA VỆ SĨ",
+                "overview": "Ba nhân vật chính Payu (Tony Jaa), Jaka (Iko Uwais), Long Fei (Tiger Chen) sẽ kết hợp cùng với nhau trong nhiệm vụ bảo vệ cô gái có cha là tỷ phú, chủ của một tập đoàn lớn. Trong khi đó sát thủ Collin (do Scott Adkins) dẫn đầu một băng nhóm tội phạm được cử đi để hạ sát cô ta....  -- "
+            },
+            {
+                "lang": "en",
+                "title": "Triple Threat",
+                "overview": "A crime syndicate places a hit on a billionaire's daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target."
+            }
+        ],
+        "genres": [
+            {
+                "id": "53",
+                "display_name": "Thriller",
+                "name": "Thriller"
+            },
+            {
+                "id": "28",
+                "display_name": "Action",
+                "name": "Action"
+            },
+            {
+                "id": "80",
+                "display_name": "Crime",
+                "name": "Crime"
+            }
+        ],
+        "level": 3,
+        "number_of_seasons": 0,
+        "number_of_episodes": 0,
+        "video_url": "12FsdGVkX18r9lxItOhWiS/nHRUxDvarNBVcTkZqfeFc8Z5jEhZiH83SZutYX2LxwpPWvkeE/U2+4Yf6Vkq6p6TfiytC35PmPUUSTB5GI/swq+aNKVPxjZxcmt0D9QKJ7G3D8QS4Ex84jMq3u4wctPNCcXDxFiFF7hp+ptri7jKe4XSTa9Vy10LfJ2g5T9XoRTyBOqSUOBb+SA1Q3Y43TODUfLkJdEUsyj8h6B/nXoJRMjdWRg9z5Pi5vSujYneU",
+        "dateFirstPublished": "2019-04-22T12:17:09.074Z",
+        "movie_id": "sf_449985"
+    },
+    {
+        "title": "Glass",
+        "apiId": 450465,
+        "type": "movie",
+        "poster_path": "/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+        "backdrop_path": "/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
+        "release_date": "2019-01-16",
+        "trailer_key": "95ghQs5AmNk",
+        "overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+        "localizes": [
+            {
+                "lang": "vi",
+                "title": "BỘ BA QUÁI NHÂN",
+                "overview": " Lần đầu tiên, khán giả sẽ được chứng kiến cuộc hội ngộ của hai kẻ dị nhân đến từ thế giới phim của đạo diễn M. Night Shyamalan: Kevin Wendell Crumb - kẻ có 23 nhân cách trong Split và David Dunn - người đàn ông không bao giờ bị thương trong Unbreakable. Tags: 9/10 trên tổng số 1201 bình chọn "
+            },
+            {
+                "lang": "en",
+                "title": "Glass",
+                "overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men."
+            }
+        ],
+        "genres": [
+            {
+                "id": "18",
+                "display_name": "Drama",
+                "name": "Drama"
+            },
+            {
+                "id": "878",
+                "display_name": "Science Fiction",
+                "name": "Science Fiction"
+            },
+            {
+                "id": "53",
+                "display_name": "Thriller",
+                "name": "Thriller"
+            }
+        ],
+        "level": 4,
+        "number_of_seasons": 0,
+        "number_of_episodes": 0,
+        "video_url": "=2FsdGVkX1+cSavJTI1ydmv3Wv/+Gn0QrxIS7tr6ImAdXARA1HaAw95fOKHrFFCsKtyZFyeFgL5qY9K5AUtULaYhMY0FiECqRQUGEt4p6AtI2FjRZ2rHOpKSIVF024OX99VRtLuYZJyPp5vpipJi4aPBS3dAtygosb9cj10Y2dgU",
+        "dateFirstPublished": "2020-02-29T09:10:52.771Z",
+        "movie_id": "sf_450465"
+    }
+]
